@@ -25,11 +25,11 @@ This project provides a backend implementation for a chatbot using the Llama-2 m
 
 1. Clone the repository:
    ```sh
-   git clone <repository_link>
+   git clone https://github.com/MuLIAICHI/Fast-llama.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd <project_directory>
+   cd Fast-llama
    ```
 3. Install the dependencies:
    ```sh
